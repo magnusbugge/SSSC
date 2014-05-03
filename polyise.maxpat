@@ -8,7 +8,7 @@
 			"architecture" : "x86"
 		}
 ,
-		"rect" : [ 0.0, 44.0, 1680.0, 956.0 ],
+		"rect" : [ 0.0, 44.0, 1280.0, 706.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -860,7 +860,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "float" ],
-					"patching_rect" : [ 1105.0, 296.0, 42.0, 20.0 ],
+					"patching_rect" : [ 1113.0, 344.0, 42.0, 20.0 ],
 					"text" : "* 0.25"
 				}
 
@@ -874,7 +874,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 7,
 					"outlettype" : [ "", "", "", "", "", "", "" ],
-					"patching_rect" : [ 805.0, 269.0, 319.0, 20.0 ],
+					"patching_rect" : [ 813.0, 317.0, 319.0, 20.0 ],
 					"text" : "cycle 7"
 				}
 
@@ -888,7 +888,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 3,
 					"outlettype" : [ "bang", "bang", "int" ],
-					"patching_rect" : [ 805.0, 173.0, 46.0, 20.0 ],
+					"patching_rect" : [ 813.0, 221.0, 46.0, 20.0 ],
 					"text" : "uzi 7"
 				}
 
@@ -902,7 +902,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "float" ],
-					"patching_rect" : [ 805.0, 240.0, 41.0, 20.0 ],
+					"patching_rect" : [ 813.0, 288.0, 41.0, 20.0 ],
 					"text" : "/ 100."
 				}
 
@@ -916,7 +916,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "int" ],
-					"patching_rect" : [ 805.0, 210.0, 75.0, 20.0 ],
+					"patching_rect" : [ 813.0, 255.0, 75.0, 20.0 ],
 					"text" : "random 100"
 				}
 
@@ -931,7 +931,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "float", "bang" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 855.0, 316.0, 50.0, 20.0 ]
+					"patching_rect" : [ 863.0, 364.0, 50.0, 20.0 ]
 				}
 
 			}
@@ -945,7 +945,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "float", "bang" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 805.0, 316.0, 50.0, 20.0 ]
+					"patching_rect" : [ 813.0, 364.0, 50.0, 20.0 ]
 				}
 
 			}
@@ -959,7 +959,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "float", "bang" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 721.0, 344.0, 50.0, 20.0 ]
+					"patching_rect" : [ 729.0, 392.0, 50.0, 20.0 ]
 				}
 
 			}
@@ -973,7 +973,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "float", "bang" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 1105.0, 316.0, 50.0, 20.0 ]
+					"patching_rect" : [ 1113.0, 364.0, 50.0, 20.0 ]
 				}
 
 			}
@@ -987,7 +987,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "float", "bang" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 1055.0, 316.0, 50.0, 20.0 ]
+					"patching_rect" : [ 1063.0, 364.0, 50.0, 20.0 ]
 				}
 
 			}
@@ -1001,7 +1001,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "float", "bang" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 1005.0, 316.0, 50.0, 20.0 ]
+					"patching_rect" : [ 1013.0, 364.0, 50.0, 20.0 ]
 				}
 
 			}
@@ -1015,7 +1015,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "float", "bang" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 955.0, 316.0, 50.0, 20.0 ]
+					"patching_rect" : [ 963.0, 364.0, 50.0, 20.0 ]
 				}
 
 			}
@@ -1029,7 +1029,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "float", "bang" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 905.0, 316.0, 50.0, 20.0 ]
+					"patching_rect" : [ 913.0, 364.0, 50.0, 20.0 ]
 				}
 
 			}
@@ -1042,7 +1042,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "signal" ],
-					"patching_rect" : [ 940.0, 416.0, 45.0, 20.0 ],
+					"patching_rect" : [ 948.0, 464.0, 45.0, 20.0 ],
 					"text" : "*~"
 				}
 
@@ -1056,7 +1056,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "signal" ],
-					"patching_rect" : [ 886.0, 416.0, 45.0, 20.0 ],
+					"patching_rect" : [ 894.0, 464.0, 45.0, 20.0 ],
 					"text" : "*~"
 				}
 
@@ -1070,7 +1070,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "signal" ],
-					"patching_rect" : [ 837.0, 416.0, 45.0, 20.0 ],
+					"patching_rect" : [ 845.0, 464.0, 45.0, 20.0 ],
 					"text" : "*~"
 				}
 
@@ -1084,7 +1084,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "signal" ],
-					"patching_rect" : [ 777.0, 416.0, 45.0, 20.0 ],
+					"patching_rect" : [ 785.0, 464.0, 45.0, 20.0 ],
 					"text" : "*~"
 				}
 
@@ -1098,7 +1098,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "signal" ],
-					"patching_rect" : [ 721.0, 416.0, 45.0, 20.0 ],
+					"patching_rect" : [ 729.0, 464.0, 45.0, 20.0 ],
 					"text" : "*~"
 				}
 
@@ -1112,7 +1112,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "signal" ],
-					"patching_rect" : [ 721.0, 377.0, 45.0, 20.0 ],
+					"patching_rect" : [ 729.0, 425.0, 45.0, 20.0 ],
 					"text" : "cycle~"
 				}
 
@@ -1126,7 +1126,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "signal" ],
-					"patching_rect" : [ 940.0, 377.0, 40.0, 20.0 ],
+					"patching_rect" : [ 948.0, 425.0, 40.0, 20.0 ],
 					"text" : "pink~"
 				}
 
@@ -1140,7 +1140,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "signal" ],
-					"patching_rect" : [ 837.0, 377.0, 39.0, 20.0 ],
+					"patching_rect" : [ 845.0, 425.0, 39.0, 20.0 ],
 					"text" : "saw~"
 				}
 
@@ -1154,7 +1154,7 @@
 					"numinlets" : 3,
 					"numoutlets" : 1,
 					"outlettype" : [ "signal" ],
-					"patching_rect" : [ 886.0, 377.0, 46.0, 20.0 ],
+					"patching_rect" : [ 894.0, 425.0, 46.0, 20.0 ],
 					"text" : "rect~"
 				}
 
@@ -1168,7 +1168,7 @@
 					"numinlets" : 3,
 					"numoutlets" : 1,
 					"outlettype" : [ "signal" ],
-					"patching_rect" : [ 777.0, 377.0, 46.0, 20.0 ],
+					"patching_rect" : [ 785.0, 425.0, 46.0, 20.0 ],
 					"text" : "tri~"
 				}
 
@@ -1196,7 +1196,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "int" ],
-					"patching_rect" : [ 721.0, 316.0, 75.0, 20.0 ],
+					"patching_rect" : [ 729.0, 364.0, 75.0, 20.0 ],
 					"text" : "random 200"
 				}
 
@@ -1907,7 +1907,7 @@
  ],
 		"dependency_cache" : [ 			{
 				"name" : "sigmoid.gendsp",
-				"bootpath" : "/Users/magnusbugge/Desktop/To github",
+				"bootpath" : "/Users/magnusbugge/Desktop/SSSC",
 				"patcherrelativepath" : ".",
 				"type" : "gDSP",
 				"implicit" : 1
