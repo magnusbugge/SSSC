@@ -170,49 +170,6 @@
 			}
 , 			{
 				"box" : 				{
-					"color" : [ 0.498039, 0.839216, 0.619608, 1.0 ],
-					"fontname" : "Arial",
-					"fontsize" : 12.0,
-					"id" : "obj-1",
-					"maxclass" : "newobj",
-					"numinlets" : 2,
-					"numoutlets" : 1,
-					"outlettype" : [ "float" ],
-					"patching_rect" : [ 471.75, 159.0, 34.0, 20.0 ],
-					"text" : "/ 10."
-				}
-
-			}
-, 			{
-				"box" : 				{
-					"color" : [ 0.498594, 0.839216, 0.620654, 1.0 ],
-					"fontname" : "Arial",
-					"fontsize" : 12.0,
-					"id" : "obj-6",
-					"maxclass" : "newobj",
-					"numinlets" : 1,
-					"numoutlets" : 0,
-					"patching_rect" : [ 471.75, 69.5, 63.0, 20.0 ],
-					"text" : "s freqstep"
-				}
-
-			}
-, 			{
-				"box" : 				{
-					"color" : [ 0.498594, 0.839216, 0.620654, 1.0 ],
-					"fontname" : "Arial",
-					"fontsize" : 12.0,
-					"id" : "obj-5",
-					"maxclass" : "newobj",
-					"numinlets" : 1,
-					"numoutlets" : 0,
-					"patching_rect" : [ 471.75, 198.691162, 71.0, 20.0 ],
-					"text" : "s freqrange"
-				}
-
-			}
-, 			{
-				"box" : 				{
 					"color" : [ 0.498594, 0.839216, 0.620654, 1.0 ],
 					"fontname" : "Arial",
 					"fontsize" : 12.0,
@@ -232,7 +189,7 @@
 					"maxclass" : "inlet",
 					"numinlets" : 0,
 					"numoutlets" : 1,
-					"outlettype" : [ "signal" ],
+					"outlettype" : [ "" ],
 					"patching_rect" : [ 62.25, 302.0, 25.0, 25.0 ]
 				}
 
@@ -402,15 +359,6 @@
  ],
 		"lines" : [ 			{
 				"patchline" : 				{
-					"destination" : [ "obj-5", 0 ],
-					"disabled" : 0,
-					"hidden" : 0,
-					"source" : [ "obj-1", 0 ]
-				}
-
-			}
-, 			{
-				"patchline" : 				{
 					"destination" : [ "obj-145", 0 ],
 					"disabled" : 0,
 					"hidden" : 0,
@@ -456,15 +404,6 @@
 			}
 , 			{
 				"patchline" : 				{
-					"destination" : [ "obj-6", 0 ],
-					"disabled" : 0,
-					"hidden" : 0,
-					"source" : [ "obj-142", 0 ]
-				}
-
-			}
-, 			{
-				"patchline" : 				{
 					"destination" : [ "obj-147", 0 ],
 					"disabled" : 0,
 					"hidden" : 0,
@@ -496,15 +435,6 @@
 					"disabled" : 0,
 					"hidden" : 0,
 					"source" : [ "obj-146", 0 ]
-				}
-
-			}
-, 			{
-				"patchline" : 				{
-					"destination" : [ "obj-1", 0 ],
-					"disabled" : 0,
-					"hidden" : 0,
-					"source" : [ "obj-147", 0 ]
 				}
 
 			}
@@ -689,6 +619,14 @@
 					"source" : [ "obj-7", 0 ]
 				}
 
+			}
+ ],
+		"dependency_cache" : [ 			{
+				"name" : "yafr2.maxpat",
+				"bootpath" : "/Applications/Max 6.1/examples/effects/reverb/lib",
+				"patcherrelativepath" : "../../../../Applications/Max 6.1/examples/effects/reverb/lib",
+				"type" : "JSON",
+				"implicit" : 1
 			}
  ]
 	}
